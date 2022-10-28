@@ -151,9 +151,6 @@ a {
   gap: var(--gap);
   flex-direction: row-reverse;
   align-items: center;
-  width: 141px;
-  height: 50px;
-  position:relative;
 }
 
 .expirience-item__description {
